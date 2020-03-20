@@ -21,4 +21,9 @@ inability to create a new element after clicking "submit" button.
 
 Documents used during testing: ms.Excel
 
-Final approval: Kin 
+How to run: 3 way to run
+1. By TestingClass class
+2. By Command Prompt (mvn test)
+3. By running the TestNG.xml file
+
+Final approval: Kin
