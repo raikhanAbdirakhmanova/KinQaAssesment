@@ -1,0 +1,24 @@
+Introduction:
+_- goal: Verify Lifeboot library app functions are work and present for all users;
+- scope:  Lifeboot library app;
+- schedule: 72 hours (manual 24 hours, automation 48 hours)
+
+
+Objectives:
+Lifeboot library is application for managing library logs activities. Important aspects must work and function as expected according to RD (requirements document).
+- in-scope: username, title, author, name of book, DDS number
+
+Scenarios: positive
+
+Required resources:
+staff:Raikhan Abdirakhmanova
+- method : Data Driven Development
+testing tools: manual - n/a, automation - IntelliJ, maven, Java, SeleniumHQ, WebDriverManager, Apache POI ,TestNG, git
+hardware: Win; browser testing (Chrome)
+
+Risks and dependencies:
+inability to create a new element after clicking "submit" button.
+
+Documents used during testing: ms.Excel
+
+Final approval: Kin 
